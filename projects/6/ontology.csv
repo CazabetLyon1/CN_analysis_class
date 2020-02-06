@@ -1,0 +1,76 @@
+id,type,Label,FreqSum,subtype,gender
+andu,pla,Anduin,109,Place,
+arag,per,Aragorn,1069,Man,male
+arat,per,Arathorn,36,Man,male
+arwe,per,Arwen,51,Elf,female
+bage,pla,Bag End,77,Place,
+bali,per,Balin,30,Dwarf,male
+bere,per,Beregond,77,Man,male
+bilb,per,Bilbo,385,Hobbit,male
+bill,per,Bill,45,Animal,male
+boro,per,Boromir,293,Man,male
+bree,pla,Bree,164,Place,
+cele,per,Celeborn,51,Elf,male
+comp,gro,Company,160,Mixed,
+dene,per,Denethor,168,Man,male
+dtow,pla,Dark Tower,33,Place,
+duri,per,Durin,54,Dwarf,male
+dwar,gro,Dwarves,122,Dwarf,
+edor,pla,Edoras,55,Place,
+elen,per,Elendil,89,Man,male
+elro,per,Elrond,240,Elf,male
+elve,gro,Elf,292,Elf,
+ents,gro,Ent,136,Ent,
+eome,per,Éomer,238,Man,male
+eorl,per,Eorl,56,Man,male
+eowy,per,Éowyn,115,Man,female
+oldf,pla,Old Forest,19,Place,
+mirk,pla,Mirkwood,58,Place,
+fara,per,Faramir,313,Man,male
+frod,per,Frodo,2040,Hobbit,male
+gala,per,Galadriel,95,Elf,female
+ganda,per,Gandalf,1235,Ainur,male
+gber,per,Goldberry,32,Ainur,female
+gild,per,Gildor,32,Elf,male
+gimli,per,Gimli,403,Dwarf,male
+gloi,per,Glóin,52,Dwarf,male
+glorf,per,Glorfindel,43,Elf,male
+goll,per,Gollum,581,Hobbit,male
+gond,pla,Gondor,442,Place,
+gorb,per,Gorbag,30,Orc,male
+grim,per,Wormtongue,65,Man,male
+hald,per,Haldir,44,Elf,male
+helm,pla,Helm,80,Place,
+hobb,gro,Hobbits,127,Hobbit,
+hton,pla,Hobbiton,59,Place,
+isen,pla,Isengard,165,Place,
+isil,per,Isildur,103,Man,male
+lego,per,Legolas,346,Elf,male
+lori,pla,Lórien,97,Place,
+loth,pla,Lothlórien,42,Place,
+mdoo,pla,Mount Doom,12,Place,
+merr,per,Merry,595,Hobbit,male
+mord,pla,Mordor,265,Place,
+morg,pla,Morgul,72,Place,
+mori,pla,Moria,131,Place,
+nazg,gro,Nine Riders,54,Man,
+nume,pla,Númenor,62,Place,
+orth,pla,Orthanc,83,Place,
+osgi,pla,Osgiliath,50,Place,
+pipp,per,Pippin,771,Hobbit,male
+ring,thin,Ring,427,Object,
+rive,pla,Rivendell,145,Place,
+roha,pla,Rohan,263,Place,
+sams,per,Sam,1400,Hobbit,male
+saru,per,Saruman,312,Ainur,male
+saur,per,Sauron,339,Ainur,male
+sfax,per,Shadowfax,78,Animal,male
+shel,per,Shelob,40,Animal,female
+shir,pla,Shire,411,Place,
+theod,per,Théoden,246,Man,male
+thor,per,Thorin,40,Dwarf,male
+thra,per,Thráin,33,Dwarf,male
+tiri,pla,Minas Tirith,110,Place,
+tomb,per,Bombadil,177,Ainur,male
+treeb,per,Treebeard,221,Ent,male
+orcs,gro,Orc,321,Orc,
